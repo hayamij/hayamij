@@ -24,15 +24,6 @@ I'm a full-stack developer in practice, but deep down, I’m a **backend artisan
 
 ---
 
-### 👾 A Few Repositories to Explore
-
-- 🔍 [`hayamij-algorithm-functions`](https://github.com/hayamij/hayamij-algorithm-functions) — All my useful binary trees, linked lists, sorting magic, and more.
-- 🛒 [`simple-shopping-site`](https://github.com/hayamij/simple-shopping-site) — A minimal data management site using PHP.
-- 🤖 [`ItemFlow`](https://github.com/hayamij/ItemFlow) — A chatbot assistant for managing products using NLP (Java).
-- 💽 [`DatabaseManagement`](https://github.com/hayamij/DatabaseManagement) — A Windows Forms .NET C# app to keep your shop database tidy.
-
----
-
 ### 🧊 Personality Stack
 
 > `Difficult` + `Diligent` + `Detail-oriented`  
