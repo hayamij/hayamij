@@ -1,6 +1,7 @@
 ## 👋 Hello there, I'm hayamij 🍞
 Welcome to my digital shelf — where code, logic, and a touch of creative flair meet.  
 I'm a full-stack developer in practice, but deep down, I’m a **backend artisan**. I live and breathe **algorithms**, **data structures**, and the elegance of **well-designed databases**.
+
 ---
 
 ### 💻 What I Do
