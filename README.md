@@ -1,1 +1,1 @@
-_“Code is art, logic is the brush, and bugs... are part of the process.”_
+_“The goal of software architecture is to minimize the human resources required to build and maintain the required system.”_
