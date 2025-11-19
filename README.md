@@ -1,10 +1,7 @@
 <img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf9293f4-0548-4487-81ab-9c6177bfbf62" />
 
-###
-
-_“Good judgement comes from experience, and experience comes from bad judgement.”_
-
-###
+<h3 align="center">Hi 👋, I'm Hayami</h3>
+<p align="center">A software engineer and back-end developer from Ho Chi Minh City, Viet Nam</p>
 
 <a href="https://discord.com/users/457128222794973194"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.facebook.com/phuongtuan.2312/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
@@ -37,3 +34,7 @@ _“Good judgement comes from experience, and experience comes from bad judgemen
 
 
 <p><a href="https://www.buymeacoffee.com/hayamij"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="hayamij" /></a></p><br><br>
+
+---
+
+_“Good judgement comes from experience, and experience comes from bad judgement.”_
