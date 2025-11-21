@@ -31,6 +31,4 @@
 
 <p><a href="https://www.buymeacoffee.com/hayamij"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="hayamij" /></a></p><br><br>
 
----
-
 _“Good judgement comes from experience, and experience comes from bad judgement.”_
