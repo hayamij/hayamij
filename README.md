@@ -6,8 +6,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-hayamij-black?style=for-the-badge&logo=github)](https://github.com/hayamij)
 [![Email](https://img.shields.io/badge/Email-nqtuanp2005@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nqtuanp2005@gmail.com)
 
-<image height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=hayamij&show_icons=true&theme=radical"/>
-<image height="190" alight="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamij&layout=compact&theme=radical&langs_count=8"/>
+<!-- <image height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=hayamij&show_icons=true&theme=radical"/>
+<image height="190" alight="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamij&layout=compact&theme=radical&langs_count=8"/> -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
