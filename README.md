@@ -1,4 +1,4 @@
-<img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf9293f4-0548-4487-81ab-9c6177bfbf62" />
+<img alt="image" src="https://scontent.fsgn5-11.fna.fbcdn.net/v/t39.30808-6/670453426_1664437574691603_1853522912137694695_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=dvNgx6GlL9oQ7kNvwHzES3v&_nc_oc=Ado10qosDo-HGa1VvGSh0vYqcbVe4fGHpjDPByteAMY5QSB_vBs1KKG2ZxvYCV5k6AY&_nc_zt=23&_nc_ht=scontent.fsgn5-11.fna&_nc_gid=1cole4xJjVMMh0pf20SIKw&_nc_ss=7a3a8&oh=00_Af37i2ES7OnEw7csjiCn9l6n22FRXH_hlHPGnv_729DkCQ&oe=69E5D8C0" />
 
 <a href="https://discord.com/users/457128222794973194"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.facebook.com/phuongtuan.2312/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
