@@ -4,7 +4,6 @@
 <a href="https://discord.com/users/457128222794973194"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.facebook.com/phuongtuan.2312/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.instagram.com/ptuan.foto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-[![GitHub](https://img.shields.io/badge/GitHub-hayamij-black?style=for-the-badge&logo=github)](https://github.com/hayamij)
 [![Email](https://img.shields.io/badge/Email-nqtuanp2005@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nqtuanp2005@gmail.com)
 
 
