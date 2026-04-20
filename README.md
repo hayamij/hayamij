@@ -1,10 +1,12 @@
 <img alt="image" src="https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/475051289_1326314011837296_7199713046085105346_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=b895b5&_nc_ohc=MLumElsRO00Q7kNvwFm5Hvw&_nc_oc=Adq3jN8R8OS2FhlSSiVaP6x0YbCyciSYL5atmlyv-OKe1-Qqnn4JNZ5TZLFzKQka4dc&_nc_zt=23&_nc_ht=scontent.fsgn5-10.fna&_nc_gid=2h65N-2-u35o9krNok0xCQ&_nc_ss=7a3a8&oh=00_Af2-QRKMTeBHbYuPsZU-zQI79ufLz6J8Bhe3Lr0-86DAGA&oe=69EC6272" />
 
+[![ViewCount](https://komarev.com/ghpvc/?username=hayamij&label=Visitor%20Count&color=33b86d&style=for-the-badge)](https://github.com/hayamij)
 <a href="https://discord.com/users/457128222794973194"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.facebook.com/phuongtuan.2312/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.instagram.com/ptuan.foto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 [![GitHub](https://img.shields.io/badge/GitHub-hayamij-black?style=for-the-badge&logo=github)](https://github.com/hayamij)
 [![Email](https://img.shields.io/badge/Email-nqtuanp2005@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nqtuanp2005@gmail.com)
+
 
 <image height="180" align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=hayamij&count_private=true&theme=radical&show_icons=true&hide_rank=false"/>
 <image height="180" alight="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hayamij&layout=compact&langs_count=8&theme=radical&role=OWNER,COLLABORATOR"/>
@@ -30,7 +32,7 @@
 <img src="https://img.shields.io/badge/-C%23-brightgreen?logo=C%2B%2B&logoColor=white&style=for-the-badge" alt="C#" />
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge" alt="MSSQL" />
 
-<p><a href="https://www.buymeacoffee.com/hayamij"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="hayamij" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/hayamij"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="hayamij" /></a></p><br><br>
 
 <p></p>
 
