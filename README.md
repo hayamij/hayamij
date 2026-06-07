@@ -1,4 +1,4 @@
-<img alt="image" src="https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/475051289_1326314011837296_7199713046085105346_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=IUOdh-LIw0QQ7kNvwHrLKiB&_nc_oc=AdpwrhqIoM8GB0BJA22T7I9NgcJQ74JALtqhKYCPX_ucaeJ0PKyJfEvKIFegZ4W5ylA&_nc_zt=23&_nc_ht=scontent.fsgn5-10.fna&_nc_gid=s7x1N8ZnVgbzO71UH4CoHg&_nc_ss=7b2a8&oh=00_Af6pxk44TdzVFGXUtsrj3IzrzQmBwlhV4D4OJdIk4qqC6w&oe=6A1E7B72" />
+<img width="3822" height="1080" alt="475051289_1326314011837296_7199713046085105346_n" src="https://github.com/user-attachments/assets/a5c620eb-d595-484e-906c-d8f7e8579f41" />
 
 [![ViewCount](https://komarev.com/ghpvc/?username=hayamij&label=Visitor%20Count&color=33b86d&style=for-the-badge)](https://github.com/hayamij)
 <a href="https://discord.com/users/457128222794973194"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
